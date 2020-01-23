@@ -21,6 +21,8 @@ _Cartographie du Web littéraire francophone_ Lyon - Janvier 2020
 ![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png) <!-- .element: class="logo" -->
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/siteRep.png" -->
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/ArchetPoupee.png" -->
 <!-- .slide: class="hover"-->
 
@@ -53,6 +55,8 @@ Comment classer ces objets et quel est leur impact sur notre définition de la l
 - Le tournant numérique : « l’étude de la littérature électronique se transforme en une analyse théorique de ce qu’est la littérature à l’époque du numérique. Cette analyse théorique  a  un  sérieux  avantage: outre le fait d’accroître la connaissance de nouvelles pratiques  littéraires,  elle  nous  permet  une  meilleure  compréhension de ce qu’est notre culture en général à l’époque du numérique ».
 - De la littérature numérique à la littérature à l'ère du numérique
 </small>
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/plagiat.png" -->
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/victoria.png" -->
 <!-- .slide: class="hover"-->
